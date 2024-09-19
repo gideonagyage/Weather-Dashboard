@@ -62,6 +62,10 @@
    npm run dev
    ```
 
+## Live Demo
+
+[Click Here](https://weather-dashboard-lac.vercel.app/)
+
 ## Usage
 
 - **Search for a Location:** Enter a city name in the search bar to get the weather information for that location.
